@@ -1,0 +1,46 @@
+body{
+    padding: 0%;
+    margin: 0;
+    font-family: "open sans", sans-serif;
+}
+main{
+    background-color: black;
+    height: 100vh;
+    
+}
+.divlogo{
+    display: flex;
+    width: 250px;
+    display: flex;
+}
+.imglogo{
+    border-radius: 50px;
+    height: 300px;
+    width: 300px;
+    padding-left: 66px;
+    display: flex;
+    
+}
+.p{
+    color: #C20000;
+    display: inline;
+    padding: 32px;
+}
+.textinicial{
+    padding-left: 387px;
+    padding-top: 57px;
+}
+a{
+    text-decoration: none; 
+    color: inherit; 
+}
+.pText{
+    padding-top: 100px;
+    padding-left: 225px;
+    padding-right: 100px;
+    color: #C20000;
+}
+.flex{
+    display: flex;
+    flex-wrap: nowrap;
+}

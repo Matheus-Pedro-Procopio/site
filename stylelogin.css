@@ -1,0 +1,48 @@
+body{
+    padding: 0%;
+    margin: 0;
+    font-family: "open sans", sans-serif;
+}
+main{
+    background-color: black;
+    
+    
+}
+.divlogo{
+    display: flex;
+    width: 250px;
+}
+.imglogo{
+    border-radius: 50px;
+    height: 300px;
+    width: 300px;
+    padding-left: 66px;
+    display: flex;
+    
+}
+.p{
+    color: #C20000;
+    display: inline;
+    padding: 32px;
+}
+.textinicial{
+    padding-left: 387px;
+    padding-top: 57px;
+}
+a{
+    text-decoration: none; 
+    color: inherit; 
+}
+.plogin{
+    color: #C20000; 
+}
+#divlogin{
+    padding-left: 550px;
+    padding-bottom: 200px;
+}  
+.v1input{
+    background-color: black;
+    color: #C20000;
+    border: solid #C20000;
+    display: block;
+}
